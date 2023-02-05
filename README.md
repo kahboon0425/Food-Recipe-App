@@ -1,4 +1,4 @@
-# Food Recepi App
+# Food Recipe App
 This is a food recipe app created with react-native. The app allows user to search for different categories of food and find the recipe of the food easily. The user can also save their favorite meals.
 
 <img src="https://user-images.githubusercontent.com/116237965/216795989-5f14eedb-45d8-4860-9b61-fc19dc8d85f4.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/116237965/216795996-76cd5f9b-e6db-483c-8bb5-9262e63bcbaa.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/116237965/216796006-95af1439-919b-4b87-89cb-99054bdfedb7.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/116237965/216796015-f45aeef7-15a6-40df-a6b3-d25f230e372d.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/116237965/216796021-158fc1e7-471e-435e-8afd-6246bf0a58a8.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/116237965/216796074-534ae674-84c3-4e9f-b9c0-3a85303215d2.png" width="23%"></img> <img src="https://user-images.githubusercontent.com/116237965/216796079-48bc69a8-c599-43c4-94ca-2853ee0b54d9.png" width="23%"></img> 
